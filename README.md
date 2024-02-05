@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yogender-kulshrestha/yogender-kulshrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +9,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
+### I'm [Yogender Kulshrestha!] 👋
+
+- 🔭 I’m currently working on [Laravel](http://laravel.com)
+- 🌱 I’m currently learning [Node.js](https://nodejs.org)
+- 💬 Ask me about Laravel or any tech related stuff.
+- 📫 How to reach me: [Twitter - @tecyogi](https://twitter.com/tecyogi)
+- 😄 Pronouns: He/His
+
