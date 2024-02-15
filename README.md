@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 ### I'm [Yogender Kulshrestha!](https://www.tecyogi.com) 👋
 
-- 🔭 I’m currently working on [Laravel](https://laravel.com)
-- 🌱 I’m currently learning [Node.js](https://nodejs.org)
+- 🔭 I’m currently working on [Laravel](https://laravel.com) and [Node.js](https://nodejs.org)
 - 💬 Ask me about PHP, Laravel, or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @tecyogi](https://twitter.com/tecyogi)
 - 😄 Pronouns: He/His
