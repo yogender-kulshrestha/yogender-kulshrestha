@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Laravel](https://laravel.com) and [Node.js](https://nodejs.org)
 - 🌱 I’m currently learning [Python](https://www.python.org)
 - 💬 Ask me about PHP, Laravel, or any tech-related stuff.
-- 📫 How to reach me: [X - @tecyogi](https://twitter.com/tecyogi)
-- 😄 Pronouns: He/His
+- 📫 How to reach me: [linkedin - @yogender-kulshrestha](https://linkedin.com/in/yogender-kulshrestha)
+<!-- - 😄 Pronouns: He/His -->
 
